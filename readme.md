@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Rahul Babu</h1>
 <h3 align="center">AI and ML Enthusiast | Master's Student</h3>
 
-- 📫 How to reach me **rahulb1407@gmail.com**
+- 📫 Reach me at **rahulb1407@gmail.com**
+- 🌐 Check out my portfolio: [Portfolio](https://rahul-1415.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +16,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-1415&show_icons=true&locale=en&layout=compact" alt="rahul-1415" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-1415&" alt="rahul-1415" />
