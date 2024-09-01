@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Babu</h1>
+<h1 align="center">Hi, I'm Rahul Babu</h1>
 <h3 align="center">AI and ML Enthusiast | Master's Student</h3>
 
 - 📫 How to reach me **rahulb1407@gmail.com**
