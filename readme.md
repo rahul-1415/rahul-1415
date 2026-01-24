@@ -1,73 +1,47 @@
 # Hi, I'm Rahul Babu 👋
 
-Software Engineer | Full-Stack & Frontend Development | Cloud & AI Systems  
+Software Engineer | Full-Stack & Frontend Development | Cloud & ML/AI Systems  
 
 📍 United States  
-📧 rahulb1407@gmail.com 
+📧 rahulb1407@gmail.com  
 💻 GitHub: https://github.com/rahul-1415  
 
 ---
 
 ## 🧠 About Me
 
-I enjoy building scalable web and mobile applications with a strong focus on clean frontend architecture, reliable backend systems, and modern cloud deployments.  
-My work spans full-stack development, applied AI systems, and data-driven applications.
+I enjoy building scalable web and mobile applications with a strong focus on clean frontend architecture, reliable backend systems, and modern cloud deployments. My work spans full-stack development, applied ML/AI systems, and data-driven applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-
-* [![React][React.js]][React-url]
-* [![Next][Next.js]][Next-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![HTML5][HTML5]][HTML5-url]
-* [![CSS3][CSS3]][CSS3-url]
-* [![JavaScript][JavaScript]][JavaScript-url]
-* [![TypeScript][TypeScript]][TypeScript-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![jQuery][JQuery.com]][JQuery-url]
+### 🌐 Frontend  
+[![React][React.js]][React-url] [![Next][Next.js]][Next-url] [![Angular][Angular.io]][Angular-url] [![Vue][Vue.js]][Vue-url]  
+[![HTML5][HTML5]][HTML5-url] [![CSS3][CSS3]][CSS3-url] [![JavaScript][JavaScript]][JavaScript-url] [![TypeScript][TypeScript]][TypeScript-url]  
+[![Bootstrap][Bootstrap.com]][Bootstrap-url] [![jQuery][JQuery.com]][JQuery-url]
 
 ---
 
-### ⚙️ Backend
-
-* [![Python][Python]][Python-url]
-* [![Django][Django]][Django-url]
-* [![Flask][Flask]][Flask-url]
-* [![FastAPI][FastAPI]][FastAPI-url]
-* [![Java][Java]][Java-url]
-* [![Spring][Spring]][Spring-url]
-* [![NodeJS][Node.js]][Node-url]
+### ⚙️ Backend  
+[![Java][Java]][Java-url] [![Spring][Spring]][Spring-url] [![NodeJS][Node.js]][Node-url]  
+[![Python][Python]][Python-url] [![Django][Django]][Django-url] [![Flask][Flask]][Flask-url] [![FastAPI][FastAPI]][FastAPI-url]
 
 ---
 
-### 🧠 Machine Learning & AI
-
-* [![ScikitLearn][ScikitLearn]][ScikitLearn-url]
-* [![TensorFlow][TensorFlow]][TensorFlow-url]
-* [![PyTorch][PyTorch]][PyTorch-url]
-* [![HuggingFace][HuggingFace]][HuggingFace-url]
-* [![LangChain][LangChain]][LangChain-url]
+### 🧠 Machine Learning & AI  
+[![ScikitLearn][ScikitLearn]][ScikitLearn-url] [![TensorFlow][TensorFlow]][TensorFlow-url]  
+[![PyTorch][PyTorch]][PyTorch-url] [![HuggingFace][HuggingFace]][HuggingFace-url] [![LangChain][LangChain]][LangChain-url]
 
 ---
 
-### 🗄️ Databases
-
-* [![PostgreSQL][PostgreSQL]][PostgreSQL-url]
-* [![MySQL][MySQL]][MySQL-url]
-* [![MongoDB][MongoDB]][MongoDB-url]
+### 🗄️ Databases  
+[![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![MySQL][MySQL]][MySQL-url] [![MongoDB][MongoDB]][MongoDB-url]
 
 ---
 
-### ☁️ Cloud & DevOps
-
-* [![AWS][AWS]][AWS-url]
-* [![Docker][Docker]][Docker-url]
-* [![Git][Git]][Git-url]
-* [![GitHub][GitHub]][GitHub-url]
+### ☁️ Cloud & DevOps  
+[![AWS][AWS]][AWS-url] [![Docker][Docker]][Docker-url] [![Git][Git]][Git-url] [![GitHub][GitHub]][GitHub-url]
 
 ---
 
@@ -161,3 +135,18 @@ B.E. in Computer Science — *June 2023*
 
 [GitHub]: https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
+
+[ScikitLearn]: https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
+[ScikitLearn-url]: https://scikit-learn.org/
+
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+[TensorFlow-url]: https://www.tensorflow.org/
+
+[PyTorch]: https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
+[PyTorch-url]: https://pytorch.org/
+
+[HuggingFace]: https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black
+[HuggingFace-url]: https://huggingface.co/
+
+[LangChain]: https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge
+[LangChain-url]: https://www.langchain.com/
