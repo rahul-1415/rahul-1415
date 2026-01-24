@@ -1,18 +1,97 @@
-<h1 align="center">Hi, I am Rahul Babu</h1>
-<h3 align="center">Software Developer, AI and ML Enthusiast</h3>
+# Hey there, I'm Rahul Babu 👋
 
-- 📫 Reach me at **rahulb1407@gmail.com**
-- 🌐 Check out my portfolio: [Portfolio](https://rahul-1415.github.io/)
+Software Engineer | Full-Stack & Frontend Development | Mobile & Web Applications
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rahulb1407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulb1407" height="30" width="40" /></a>
-</p>
+📍 United States  
+🔗 GitHub: https://github.com/rahul-1415  
+📧 Email: rahulbabu1407@gmail.com  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-1415&show_icons=true&locale=en&layout=compact" alt="rahul-1415" /></p>
+I enjoy building clean, scalable applications across web and mobile platforms.  
+My interests span frontend engineering, backend systems, and applied machine learning.  
+Most of my work here reflects hands-on learning, experimentation, and academic projects.
 
+---
+
+## 🎓 Education
+
+**Arizona State University**, Tempe, AZ  
+**M.S. in Computer Science** — *May 2025*
+
+**Madras Institute of Technology, Anna University**, Chennai, India  
+**B.E. in Computer Science** — *June 2023*
+
+---
+
+## 🚀 Projects
+
+Below is a snapshot of the projects I’ve worked on across web development, data science, and AI systems.
+
+### 🌐 Web & Frontend
+- **Interactive-Portfolio**
+- **portfolio-site**
+- **rahul-1415.github.io**
+- **Movie-Review-WebApp**
+- **Distributed-NoSQL-Database-System-for-an-E-Commerce-Platform**
+- **Web-Design**
+
+### 📱 Full-Stack & Applications
+- **turbovets**
+- **Opioid-Overdose-Forecasting-Data-Visualizer**
+- **User-Identification-Authentication-and-Interactions-for-Social-Media-Data-Analytics-using-AI**
+- **Tournament-Manager**
+- **EATERIO**
+- **IOTDM**
+
+### 🤖 AI, ML & Data Science
+- **Opioid-Overdose-Forecasting**
+- **CAP-RAG**
+- **ClimateActionPolicy-RAG**
+- **ClimateActionPolicy-RAG-Application**
+- **LLM-AggregationTool**
+- **Sentiment-Analysis-on-Twitter-Datasets**
+- **Fake-Job-Detection**
+- **Forest-Monitoring**
+- **Harmful-Comments-Classifier**
+- **Heart-Disease-Prediction**
+- **Flame-and-Smoke-Detection**
+- **PathNavigation**
+- **APPLIED-DATA-SCIENCE-CAPSTONE-PROJECT-SPACE-X**
+
+### ⚙️ Systems & Experiments
+- **ADK-Agent-Engine**
+- **AIAgentTesting** (forked)
+- **nand2tetris**
+- **IBM-Project-4998-1658745015**
+
+---
+
+## 🧰 Tech Stack (High-Level)
+
+- **Languages**: JavaScript, TypeScript, Python, Java, SQL  
+- **Frontend**: React, React Native, HTML, CSS  
+- **Backend**: Node.js, FastAPI, Flask, Spring Boot  
+- **Data & ML**: Jupyter, XGBoost, NLP workflows  
+- **Databases**: PostgreSQL, MySQL, MongoDB  
+- **Cloud & Tools**: AWS, Docker, Git  
+
+---
+
+## 🌱 Currently Exploring
+
+- Frontend performance & component design  
+- Mobile application development  
+- Scalable backend APIs  
+- Applied AI systems and RAG workflows  
+
+---
+
+## 📫 Let’s Connect
+
+I’m always open to learning, collaboration, and interesting technical discussions.
+
+📧 Email: rahulbabu1407@gmail.com  
+💻 GitHub: https://github.com/rahul-1415
