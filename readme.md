@@ -1,6 +1,6 @@
 # Hi, I'm Rahul Babu 👋
 
-Software Engineer | Full-Stack & Frontend Development | Cloud & ML/AI Systems  
+Software Engineer | Full-Stack Development | Cloud & ML/AI Systems  
 
 📍 United States
 
