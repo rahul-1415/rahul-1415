@@ -5,7 +5,9 @@ Software Engineer | Full-Stack & Frontend Development | Cloud & ML/AI Systems
 📍 United States
 
 💼 Portfolio: https://rahul-1415.github.io/
-📧 rahulbabu1407@gmail.com  
+
+📧 Email: rahulbabu1407@gmail.com  
+
 💻 GitHub: https://github.com/rahul-1415  
 
 ---
